@@ -39,22 +39,24 @@ public:
      */
     int sqrt(int x) {
         // write your code here
-        if (x == 0) return x;
-        
+        if (x == 0) return x;        
         long long down = 1, upper = x; // 2, 2
-        while (down < upper) {
+        while (down < upper)
+        {
             long long mid = (down + upper) / 2; // 1
-            if (mid * mid <= x && (mid + 1) * (mid + 1) > x) {
+            if (mid * mid <= x && (mid + 1) * (mid + 1) > x)
+            {
                 return mid;
             }
-            else if (mid * mid < x) {
+            else if (mid * mid < x)
+            {
                 down = mid + 1;
             }
-            else {
+            else
+            {
                 upper = mid - 1;
             }
-        }
-        
+        }       
         return (int)down;
     }
 };
