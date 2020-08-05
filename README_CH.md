@@ -5,6 +5,7 @@ LintCode
 ![](https://img.shields.io/badge/language-C++-orange)
 ![](https://img.shields.io/badge/solved_problems-\+average_5/day-lightgreen)
 [![author](https://img.shields.io/badge/author-%40zerowing--ex-lightblue)](https://github.com/zerowing-ex)
+#### 更改README语言 | [English](https://github.com/zerowing-ex/LintCode/blob/master/README.md "English") | 中文
 ## 概要
 ### 仓库说明
 此仓库用来存放LintCode（或者称作领扣）题解，每天稳定更新五道题（除非有特殊情况），当题解数目到达1000道时，开始更新题目分析，预计需要一年时间，计划在2021年6月结束。

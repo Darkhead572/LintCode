@@ -5,6 +5,7 @@ LintCode
 ![](https://img.shields.io/badge/language-C++-orange)
 ![](https://img.shields.io/badge/solved_problems-\+average_5/day-lightgreen)
 [![author](https://img.shields.io/badge/author-%40zerowing--ex-lightblue)](https://github.com/zerowing-ex)
+#### Change README Language | [中文](https://github.com/zerowing-ex/LintCode/blob/master/README_CH.md "中文") | English
 ## Outline
 ### Repository Info
 This repository is used to store the problem solutions of LintCode. Five problems will be updated steadily every day (unless under special circumstances). When the number of problem solutions reaches 1000, the problem analysis will be updated, which is expected to take one year and is scheduled to end in <b>June 2021</b>.
