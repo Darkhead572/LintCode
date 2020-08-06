@@ -202,7 +202,12 @@ LintCode
 |[1526](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1526.%20N-ary%20Tree%20Preorder%20Traversal.cpp)|N-ary Tree Preorder Traversal|简单|
 |[1533](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1533.%20N-ary%20Tree%20Level%20Order%20Traversal.cpp)|N-ary Tree Level Order Traversal|简单|
 |[1609](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1609.%20Middle%20of%20the%20Linked%20List.cpp)|Middle of the Linked List|简单|
+|[1665](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1665.%20Calculate%20number.cpp)|Calculate number|简单|
+|[1700](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1700.%20DI%20String%20Match.cpp)|DI String Match|简单|
+|[1783](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1783.%20Binary%20Tree%20Postorder%20Traversal-nullptrptr.cpp)|Binary Tree Postorder Traversal-nullptrptr|简单|
+|[1807](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1807.%20Fibonacci%20easy.cpp)|Fibonacci easy|简单|
 |[1878](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1878.%20Rotated%20Nums.cpp)|Rotated Nums|简单|
+|[1880](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1880.%20Largest%20Number%20X%20Which%20Occurs%20X%20Times.cpp)|Largest Number X Which Occurs X Times|简单|
 |[1901](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1901.%20Squares%20of%20a%20Sorted%20Array.cpp)|Squares of a Sorted Array|简单|
 |[1905](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1905.%20Character%20deletion.cpp)|Character deletion|简单|
 ### 中等
