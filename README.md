@@ -192,6 +192,10 @@ Naive-->Easy-->Medium-->Hard-->Super
 |[1094](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1094.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.cpp)|Second Minimum Node In a Binary Tree|Easy|
 |[1102](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1102.%20Image%20Smoother.cpp)|Image Smoother|Easy|
 |[1104](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1104.%20Judge%20Route%20Circle.cpp)|Judge Route Circle|Easy|
+|[1168](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1168.%20array%20score.cpp)|array score|Easy|
+|[1170](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1170.%20Reshape%20the%20Matrix.cpp)|Reshape the Matrix|Easy|
+|[1172](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1172.%20Binary%20Tree%20Tilt.cpp)|Binary Tree Tilt|Easy|
+|[1193](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1193.%20Detect%20Capital.cpp)|Detect Capital|Easy|
 |[1212](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1212.%20Max%20Consecutive%20Ones.cpp)|Max Consecutive Ones|Easy|
 |[1285](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1285.%20Power%20of%20Four.cpp)|Power of Four|Easy|
 |[1294](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1294.%20Power%20of%20Three.cpp)|Power of Three|Easy|
@@ -209,6 +213,7 @@ Naive-->Easy-->Medium-->Hard-->Super
 |[1878](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1878.%20Rotated%20Nums.cpp)|Rotated Nums|Easy|
 |[1880](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1880.%20Largest%20Number%20X%20Which%20Occurs%20X%20Times.cpp)|Largest Number X Which Occurs X Times|Easy|
 |[1901](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1901.%20Squares%20of%20a%20Sorted%20Array.cpp)|Squares of a Sorted Array|Easy|
+|[1902](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1902.%20Find%20Google.cpp)|Find Google|Easy|
 |[1905](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1905.%20Character%20deletion.cpp)|Character deletion|Easy|
 ### Medium
 None
