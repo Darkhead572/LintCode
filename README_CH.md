@@ -14,6 +14,7 @@ LintCode
 
 新手-->简单-->中等-->困难-->超困难
 ## 目前的进度（按照难度划分）
+![chart](https://github.com/zerowing-ex/LintCode/blob/master/now.png)
 ### 新手
 |题号|题目名称|难易程度|
 |:--|:--|:--|
@@ -107,6 +108,7 @@ LintCode
 |[306](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy306.%20Product%20List.cpp)|Product List|简单|
 |[309](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy309.%20Interleaved%20Array.cpp)|Interleaved Array|简单|
 |[310](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy310.%20Digital%20distortion.cpp)|Digital distortion|简单|
+|[311](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy311.%20Pioneering%20palindrome.cpp)|Pioneering palindrome|简单|
 |[365](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy365.%20Count%201%20in%20Binary.cpp)|Count 1 in Binary|简单|
 |[372](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy372.%20Delete%20Node%20in%20a%20Linked%20List.cpp)|Delete Node in a Linked List|简单|
 |[373](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy373.%20Partition%20Array%20by%20Odd%20and%20Even.cpp)|Partition Array by Odd and Even|简单|
@@ -161,9 +163,11 @@ LintCode
 |[684](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy684.%20Missing%20String.cpp)|Missing String|简单|
 |[686](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy686.%20Remove%20Arbitrary%20Space.cpp)|Remove Arbitrary Space|简单|
 |[697](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy697.%20Sum%20of%20Square%20Numbers.cpp)|Sum of Square Numbers|简单|
+|[702](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy702.%20Concatenated%20String%20with%20Uncommon%20Characters%20of%20Two%20Strings.cpp)|Concatenated String with Uncommon Characters of Two Strings|简单|
 |[720](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy720.%20Rearrange%20a%20String%20With%20Integers.cpp)|Rearrange a String With Integers|简单|
 |[730](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy730.%20Sum%20of%20All%20Subsets.cpp)|Sum of All Subsets|简单|
 |[737](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy737.%20Find%20Elements%20in%20Matrix.cpp)|Find Elements in Matrix|简单|
+|[749](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy749.%20John's%20backyard%20garden.cpp)|John's backyard garden|简单|
 |[756](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy756.%20Multiply%20Two%20Numbers.cpp)|Multiply Two Numbers|简单|
 |[759](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy759.%20Time%20Angle.cpp)|Time Angle|简单|
 |[763](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy763.%20Hex%20Conversion.cpp)|Hex Conversion|简单|
@@ -181,6 +185,7 @@ LintCode
 |[835](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy835.%20Hamming%20Distance.cpp)|Hamming Distance|简单|
 |[837](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy837.%20Palindromic%20Substrings.cpp)|Palindromic Substrings|简单|
 |[845](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy845.%20Greatest%20Common%20Divisor.cpp)|Greatest Common Divisor|简单|
+|[846](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy846.%20Multi-keyword%20Sort.cpp)|Multi-keyword Sort|简单|
 |[914](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy914.%20Flip%20Game.cpp)|Flip Game|简单|
 |[916](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy916.%20Palindrome%20Permutation.cpp)|Palindrome Permutation|简单|
 |[924](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy924.%20Shortest%20Word%20Distance.cpp)|Shortest Word Distance|简单|
@@ -192,6 +197,7 @@ LintCode
 |[1038](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1038.%20Jewels%20And%20Stones.cpp)|Jewels And Stones|简单|
 |[1042](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1042.%20Toeplitz%20Matrix.cpp)|Toeplitz Matrix|简单|
 |[1053](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1053.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.cpp)|Largest Number At Least Twice of Others|简单|
+|[1056](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1056.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.cpp)|Find Smallest Letter Greater Than Target|简单|
 |[1094](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1094.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.cpp)|Second Minimum Node In a Binary Tree|简单|
 |[1102](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1102.%20Image%20Smoother.cpp)|Image Smoother|简单|
 |[1104](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1104.%20Judge%20Route%20Circle.cpp)|Judge Route Circle|简单|

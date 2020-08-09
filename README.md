@@ -14,6 +14,7 @@ Priority is given to updating public algorithm problems. <b>LintCode VIP/Ladder 
 
 Naive-->Easy-->Medium-->Hard-->Super
 ## Current Progress (divided by difficulty)
+![chart](https://github.com/zerowing-ex/LintCode/blob/master/now.png)
 ### Naive
 |No|Problem Name|Difficulty|
 |:--|:--|:--|
@@ -107,6 +108,7 @@ Naive-->Easy-->Medium-->Hard-->Super
 |[306](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy306.%20Product%20List.cpp)|Product List|Easy|
 |[309](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy309.%20Interleaved%20Array.cpp)|Interleaved Array|Easy|
 |[310](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy310.%20Digital%20distortion.cpp)|Digital distortion|Easy|
+|[311](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy311.%20Pioneering%20palindrome.cpp)|Pioneering palindrome|Easy|
 |[365](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy365.%20Count%201%20in%20Binary.cpp)|Count 1 in Binary|Easy|
 |[372](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy372.%20Delete%20Node%20in%20a%20Linked%20List.cpp)|Delete Node in a Linked List|Easy|
 |[373](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy373.%20Partition%20Array%20by%20Odd%20and%20Even.cpp)|Partition Array by Odd and Even|Easy|
@@ -161,9 +163,11 @@ Naive-->Easy-->Medium-->Hard-->Super
 |[684](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy684.%20Missing%20String.cpp)|Missing String|Easy|
 |[686](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy686.%20Remove%20Arbitrary%20Space.cpp)|Remove Arbitrary Space|Easy|
 |[697](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy697.%20Sum%20of%20Square%20Numbers.cpp)|Sum of Square Numbers|Easy|
+|[702](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy702.%20Concatenated%20String%20with%20Uncommon%20Characters%20of%20Two%20Strings.cpp)|Concatenated String with Uncommon Characters of Two Strings|Easy|
 |[720](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy720.%20Rearrange%20a%20String%20With%20Integers.cpp)|Rearrange a String With Integers|Easy|
 |[730](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy730.%20Sum%20of%20All%20Subsets.cpp)|Sum of All Subsets|Easy|
 |[737](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy737.%20Find%20Elements%20in%20Matrix.cpp)|Find Elements in Matrix|Easy|
+|[749](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy749.%20John's%20backyard%20garden.cpp)|John's backyard garden|Easy|
 |[756](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy756.%20Multiply%20Two%20Numbers.cpp)|Multiply Two Numbers|Easy|
 |[759](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy759.%20Time%20Angle.cpp)|Time Angle|Easy|
 |[763](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy763.%20Hex%20Conversion.cpp)|Hex Conversion|Easy|
@@ -181,6 +185,7 @@ Naive-->Easy-->Medium-->Hard-->Super
 |[835](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy835.%20Hamming%20Distance.cpp)|Hamming Distance|Easy|
 |[837](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy837.%20Palindromic%20Substrings.cpp)|Palindromic Substrings|Easy|
 |[845](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy845.%20Greatest%20Common%20Divisor.cpp)|Greatest Common Divisor|Easy|
+|[846](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy846.%20Multi-keyword%20Sort.cpp)|Multi-keyword Sort|Easy|
 |[914](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy914.%20Flip%20Game.cpp)|Flip Game|Easy|
 |[916](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy916.%20Palindrome%20Permutation.cpp)|Palindrome Permutation|Easy|
 |[924](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy924.%20Shortest%20Word%20Distance.cpp)|Shortest Word Distance|Easy|
@@ -192,6 +197,7 @@ Naive-->Easy-->Medium-->Hard-->Super
 |[1038](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1038.%20Jewels%20And%20Stones.cpp)|Jewels And Stones|Easy|
 |[1042](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1042.%20Toeplitz%20Matrix.cpp)|Toeplitz Matrix|Easy|
 |[1053](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1053.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.cpp)|Largest Number At Least Twice of Others|Easy|
+|[1056](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1056.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.cpp)|Find Smallest Letter Greater Than Target|Easy|
 |[1094](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1094.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.cpp)|Second Minimum Node In a Binary Tree|Easy|
 |[1102](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1102.%20Image%20Smoother.cpp)|Image Smoother|Easy|
 |[1104](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1104.%20Judge%20Route%20Circle.cpp)|Judge Route Circle|Easy|
