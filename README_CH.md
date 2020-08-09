@@ -4,8 +4,24 @@ LintCode
 [![license](https://img.shields.io/badge/license-MIT-blue)](https://github.com/zerowing-ex/LintCode/blob/master/LICENSE)
 ![](https://img.shields.io/badge/language-C++-orange)
 ![](https://img.shields.io/badge/solved_problems-\+average_5/day-lightgreen)
-[![author](https://img.shields.io/badge/author-%40zerowing--ex-lightblue)](https://github.com/zerowing-ex)
-#### 更改README语言 | [English](https://github.com/zerowing-ex/LintCode/blob/master/README.md "English") | 中文
+[![author](https://img.shields.io/badge/author-%40zerowing--ex-lightblue)](https://github.com/zerowing-ex)</br></br>
+<b>更改README语言 | [English](https://github.com/zerowing-ex/LintCode/blob/master/README.md "English") | 中文</b>
+<!-- TOC -->
+
+- [LintCode](#lintcode)
+  - [概要](#概要)
+    - [仓库说明](#仓库说明)
+    - [计划的更新路线](#计划的更新路线)
+  - [目前的进度（按照难度划分）](#目前的进度按照难度划分)
+    - [新手](#新手)
+    - [简单](#简单)
+    - [中等](#中等)
+    - [困难](#困难)
+    - [超困难](#超困难)
+  - [贡献者](#贡献者)
+  - [其他](#其他)
+
+<!-- /TOC -->
 ## 概要
 ### 仓库说明
 此仓库用来存放LintCode（或者称作领扣）题解，每天稳定更新五道题（除非有特殊情况），当题解数目到达1000道时，开始更新题目分析，预计需要一年时间，计划在2021年6月结束。
