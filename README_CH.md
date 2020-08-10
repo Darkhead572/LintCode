@@ -13,7 +13,7 @@ LintCode
     - [仓库说明](#仓库说明)
     - [计划的更新路线](#计划的更新路线)
   - [目前的进度（按照难度划分）](#目前的进度按照难度划分)
-    - [新手](#新手)
+    - [入门](#入门)
     - [简单](#简单)
     - [中等](#中等)
     - [困难](#困难)
@@ -28,21 +28,21 @@ LintCode
 ### 计划的更新路线
 优先更新公开的题目，LintCode VIP（领扣会员）/天梯限定计划在所有公开题目做完后更新。
 
-新手-->简单-->中等-->困难-->超困难
+入门-->简单-->中等-->困难-->超困难
 ## 目前的进度（按照难度划分）
 ![chart](https://github.com/zerowing-ex/LintCode/blob/master/now.png)
-### 新手
+### 入门
 |题号|题目名称|难易程度|
 |:--|:--|:--|
-|[37](https://github.com/zerowing-ex/LintCode/blob/master/Naive/Naive37.%20Reverse%203-digit%20Integer.cpp)|Reverse 3-digit Integer|新手|
-|[145](https://github.com/zerowing-ex/LintCode/blob/master/Naive/Naive145.%20Lowercase%20to%20Uppercase.cpp)|Lowercase to Uppercase|新手|
-|[283](https://github.com/zerowing-ex/LintCode/blob/master/Naive/Naive283.%20Max%20of%203%20Numbers.cpp)|Max of 3 Numbers|新手|
-|[366](https://github.com/zerowing-ex/LintCode/blob/master/Naive/Naive366.%20Fibonacci.cpp)|Fibonacci|新手|
-|[454](https://github.com/zerowing-ex/LintCode/blob/master/Naive/Naive454.%20Rectangle%20Area.py)|Rectangle Area|新手|
-|[463](https://github.com/zerowing-ex/LintCode/blob/master/Naive/Naive463.%20Sort%20Integers.cpp)|Sort Integers|新手|
-|[466](https://github.com/zerowing-ex/LintCode/blob/master/Naive/Naive466.%20Count%20Linked%20List%20Nodes.cpp)|Count Linked List Nodes|新手|
-|[484](https://github.com/zerowing-ex/LintCode/blob/master/Naive/Naive484.%20Swap%20Two%20Integers%20in%20Array.cpp)|Swap Two Integers in Array|新手|
-|[632](https://github.com/zerowing-ex/LintCode/blob/master/Naive/Naive632.%20Binary%20Tree%20Maximum%20Node.cpp)|Binary Tree Maximum Node|新手|
+|[37](https://github.com/zerowing-ex/LintCode/blob/master/Naive/Naive37.%20Reverse%203-digit%20Integer.cpp)|Reverse 3-digit Integer|入门|
+|[145](https://github.com/zerowing-ex/LintCode/blob/master/Naive/Naive145.%20Lowercase%20to%20Uppercase.cpp)|Lowercase to Uppercase|入门|
+|[283](https://github.com/zerowing-ex/LintCode/blob/master/Naive/Naive283.%20Max%20of%203%20Numbers.cpp)|Max of 3 Numbers|入门|
+|[366](https://github.com/zerowing-ex/LintCode/blob/master/Naive/Naive366.%20Fibonacci.cpp)|Fibonacci|入门|
+|[454](https://github.com/zerowing-ex/LintCode/blob/master/Naive/Naive454.%20Rectangle%20Area.py)|Rectangle Area|入门|
+|[463](https://github.com/zerowing-ex/LintCode/blob/master/Naive/Naive463.%20Sort%20Integers.cpp)|Sort Integers|入门|
+|[466](https://github.com/zerowing-ex/LintCode/blob/master/Naive/Naive466.%20Count%20Linked%20List%20Nodes.cpp)|Count Linked List Nodes|入门|
+|[484](https://github.com/zerowing-ex/LintCode/blob/master/Naive/Naive484.%20Swap%20Two%20Integers%20in%20Array.cpp)|Swap Two Integers in Array|入门|
+|[632](https://github.com/zerowing-ex/LintCode/blob/master/Naive/Naive632.%20Binary%20Tree%20Maximum%20Node.cpp)|Binary Tree Maximum Node|入门|
 ### 简单
 |题号|题目名称|难易程度|
 |:--|:--|:--|
