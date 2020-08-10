@@ -209,19 +209,24 @@ LintCode
 |[943](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy943.%20Range%20Sum%20Query%20-%20Immutable.cpp)|Range Sum Query - Immutable|简单|
 |[977](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy977.%20Base%207.cpp)|Base 7|简单|
 |[987](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy987.%20Binary%20Number%20with%20Alternating%20Bits.cpp)|Binary Number with Alternating Bits|简单|
+|[988](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy988.%20Arranging%20Coins.cpp)|Arranging Coins|简单|
 |[1005](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1005.%20Largest%20Triangle%20Area.cpp)|Largest Triangle Area|简单|
 |[1038](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1038.%20Jewels%20And%20Stones.cpp)|Jewels And Stones|简单|
 |[1042](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1042.%20Toeplitz%20Matrix.cpp)|Toeplitz Matrix|简单|
+|[1046](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1046.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation.cpp)|Prime Number of Set Bits in Binary Representation|简单|
 |[1053](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1053.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.cpp)|Largest Number At Least Twice of Others|简单|
 |[1056](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1056.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.cpp)|Find Smallest Letter Greater Than Target|简单|
 |[1094](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1094.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.cpp)|Second Minimum Node In a Binary Tree|简单|
 |[1102](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1102.%20Image%20Smoother.cpp)|Image Smoother|简单|
 |[1104](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1104.%20Judge%20Route%20Circle.cpp)|Judge Route Circle|简单|
+|[1112](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1112.%20Set%20Mismatch.cpp)|Set Mismatch|简单|
 |[1153](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1153.%20string%20sorting.cpp)|string sorting|简单|
 |[1168](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1168.%20array%20score.cpp)|array score|简单|
 |[1170](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1170.%20Reshape%20the%20Matrix.cpp)|Reshape the Matrix|简单|
 |[1172](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1172.%20Binary%20Tree%20Tilt.cpp)|Binary Tree Tilt|简单|
 |[1193](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1193.%20Detect%20Capital.cpp)|Detect Capital|简单|
+|[1204](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1204.%20Keyboard%20Row.cpp)|Keyboard Row|简单|
+|[1209](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1209.%20Construct%20the%20Rectangle.cpp)|Construct the Rectangle|简单|
 |[1212](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1212.%20Max%20Consecutive%20Ones.cpp)|Max Consecutive Ones|简单|
 |[1283](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1283.%20Reverse%20String.cpp)|Reverse String|简单|
 |[1285](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1285.%20Power%20of%20Four.cpp)|Power of Four|简单|
