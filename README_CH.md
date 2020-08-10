@@ -17,7 +17,7 @@ LintCode
     - [简单](#简单)
     - [中等](#中等)
     - [困难](#困难)
-    - [超困难](#超困难)
+    - [超难](#超难)
   - [贡献者](#贡献者)
   - [其他](#其他)
 
@@ -28,7 +28,7 @@ LintCode
 ### 计划的更新路线
 优先更新公开的题目，LintCode VIP（领扣会员）/天梯限定计划在所有公开题目做完后更新。
 
-入门-->简单-->中等-->困难-->超困难
+入门-->简单-->中等-->困难-->超难
 ## 目前的进度（按照难度划分）
 ![chart](https://github.com/zerowing-ex/LintCode/blob/master/now.png)
 ### 入门
@@ -253,7 +253,7 @@ LintCode
 |题号|题目名称|难易程度|
 |:--|:--|:--|
 |[1735](https://github.com/zerowing-ex/LintCode/blob/master/Hard/Hard1735.%20Super%20Palindromes.cpp)|Super Palindromes|困难|
-### 超困难
+### 超难
 暂无
 ## 贡献者
 PS:当然就我一个:D
