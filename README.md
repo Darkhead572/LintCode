@@ -192,6 +192,7 @@ Naive-->Easy-->Medium-->Hard-->Super
 |[766](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy766.%20Leap%20Year.cpp)|Leap Year|Easy|
 |[767](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy767.%20Reverse%20Array.cpp)|Reverse Array|Easy|
 |[768](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy768.%20Yang%20Hui%20Triangle.cpp)|Yang Hui Triangle|Easy|
+|[769](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy769.%20Spiral%20Array.cpp)|Spiral Array|Easy|
 |[770](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy770.%20Maximum%20and%20Minimum.cpp)|Maximum and Minimum|Easy|
 |[773](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy773.%20Vlid%20Anagram.cpp)|Vlid Anagram|Easy|
 |[777](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy777.%20Valid%20Perfect%20Square.cpp)|Valid Perfect Square|Easy|
@@ -208,9 +209,11 @@ Naive-->Easy-->Medium-->Hard-->Super
 |[936](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy936.%20Capitalizes%20The%20First%20Letter.cpp)|Capitalizes The First Letter|Easy|
 |[943](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy943.%20Range%20Sum%20Query%20-%20Immutable.cpp)|Range Sum Query - Immutable|Easy|
 |[977](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy977.%20Base%207.cpp)|Base 7|Easy|
+|[983](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy983.%20Baseball%20Game.cpp)|Baseball Game|Easy|
 |[987](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy987.%20Binary%20Number%20with%20Alternating%20Bits.cpp)|Binary Number with Alternating Bits|Easy|
 |[988](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy988.%20Arranging%20Coins.cpp)|Arranging Coins|Easy|
 |[1005](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1005.%20Largest%20Triangle%20Area.cpp)|Largest Triangle Area|Easy|
+|[1028](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1028.%20Rotated%20Digits.cpp)|Rotated Digits|Easy|
 |[1038](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1038.%20Jewels%20And%20Stones.cpp)|Jewels And Stones|Easy|
 |[1042](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1042.%20Toeplitz%20Matrix.cpp)|Toeplitz Matrix|Easy|
 |[1046](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1046.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation.cpp)|Prime Number of Set Bits in Binary Representation|Easy|
@@ -233,6 +236,7 @@ Naive-->Easy-->Medium-->Hard-->Super
 |[1294](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1294.%20Power%20of%20Three.cpp)|Power of Three|Easy|
 |[1314](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1314.%20Power%20of%20Two.cpp)|Power of Two|Easy|
 |[1332](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1332.%20Number%20of%201%20Bits.cpp)|Number of 1 Bits|Easy|
+|[1333](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1333.%20Reverse%20Bits.cpp)|Reverse Bits|Easy|
 |[1350](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1350.%20Excel%20Sheet%20Column%20Title.cpp)|Excel Sheet Column Title|Easy|
 |[1525](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1525.%20N-ary%20Tree%20Postorder%20Traversal.cpp)|N-ary Tree Postorder Traversal|Easy|
 |[1526](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1526.%20N-ary%20Tree%20Preorder%20Traversal.cpp)|N-ary Tree Preorder Traversal|Easy|
