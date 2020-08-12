@@ -223,21 +223,31 @@ LintCode
 |[1102](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1102.%20Image%20Smoother.cpp)|Image Smoother|简单|
 |[1104](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1104.%20Judge%20Route%20Circle.cpp)|Judge Route Circle|简单|
 |[1112](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1112.%20Set%20Mismatch.cpp)|Set Mismatch|简单|
+|[1144](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1144.%20Range%20Addition%20II.cpp)|Range Addition II|简单|
 |[1153](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1153.%20string%20sorting.cpp)|string sorting|简单|
 |[1168](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1168.%20array%20score.cpp)|array score|简单|
 |[1170](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1170.%20Reshape%20the%20Matrix.cpp)|Reshape the Matrix|简单|
 |[1172](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1172.%20Binary%20Tree%20Tilt.cpp)|Binary Tree Tilt|简单|
+|[1173](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1173.%20Reverse%20Words%20in%20a%20String%20III.cpp)|Reverse Words in a String III|简单|
 |[1193](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1193.%20Detect%20Capital.cpp)|Detect Capital|简单|
+|[1200](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1200.%20Relative%20Ranks.cpp)|Relative Ranks|简单|
 |[1204](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1204.%20Keyboard%20Row.cpp)|Keyboard Row|简单|
 |[1209](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1209.%20Construct%20the%20Rectangle.cpp)|Construct the Rectangle|简单|
 |[1212](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1212.%20Max%20Consecutive%20Ones.cpp)|Max Consecutive Ones|简单|
+|[1256](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1256.%20Nth%20Digit.cpp)|Nth Digit|简单|
+|[1270](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1270.%20Ransom%20Note.cpp)|Ransom Note|简单|
+|[1282](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1282.%20Reverse%20Vowels%20of%20a%20String.cpp)|Reverse Vowels of a String|简单|
 |[1283](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1283.%20Reverse%20String.cpp)|Reverse String|简单|
 |[1285](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1285.%20Power%20of%20Four.cpp)|Power of Four|简单|
 |[1294](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1294.%20Power%20of%20Three.cpp)|Power of Three|简单|
+|[1302](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1302.%20People%20Counting.cpp)|People Counting|简单|
 |[1314](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1314.%20Power%20of%20Two.cpp)|Power of Two|简单|
+|[1324](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1324.%20Count%20Primes.cpp)|Count Primes|简单|
 |[1332](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1332.%20Number%20of%201%20Bits.cpp)|Number of 1 Bits|简单|
 |[1333](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1333.%20Reverse%20Bits.cpp)|Reverse Bits|简单|
 |[1350](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1350.%20Excel%20Sheet%20Column%20Title.cpp)|Excel Sheet Column Title|简单|
+|[1354](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1354.%20Pascal's%20Triangle%20II.cpp)|Pascal's Triangle II|简单|
+|[1355](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1355.%20Pascal's%20Triangle.cpp)|Pascal's Triangle|简单|
 |[1525](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1525.%20N-ary%20Tree%20Postorder%20Traversal.cpp)|N-ary Tree Postorder Traversal|简单|
 |[1526](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1526.%20N-ary%20Tree%20Preorder%20Traversal.cpp)|N-ary Tree Preorder Traversal|简单|
 |[1533](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1533.%20N-ary%20Tree%20Level%20Order%20Traversal.cpp)|N-ary Tree Level Order Traversal|简单|
