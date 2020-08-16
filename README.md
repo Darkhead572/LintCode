@@ -119,12 +119,14 @@ Naive-->Easy-->Medium-->Hard-->Super
 |[265](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy265.%20Maximum%20Non-Negative%20Subarray.cpp)|Maximum Non-Negative Subarray|Easy|
 |[277](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy277.%20Word%20Spacing.cpp)|Word Spacing|Easy|
 |[278](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy278.%20Paint%20Fill.cpp)|Paint Fill|Easy|
+|[282](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy282.%20Decrypt%20the%20String.cpp)|Decrypt the String|Easy|
 |[294](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy294.%20Linked%20List%20Simplification.cpp)|Linked List Simplification|Easy|
 |[296](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy296.%20Unique%20Array.cpp)|Unique Array|Easy|
 |[306](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy306.%20Product%20List.cpp)|Product List|Easy|
 |[309](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy309.%20Interleaved%20Array.cpp)|Interleaved Array|Easy|
 |[310](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy310.%20Digital%20distortion.cpp)|Digital distortion|Easy|
 |[311](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy311.%20Pioneering%20palindrome.cpp)|Pioneering palindrome|Easy|
+|[318](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy318.%20Character%20Grid.cpp)|Character Grid|Easy|
 |[365](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy365.%20Count%201%20in%20Binary.cpp)|Count 1 in Binary|Easy|
 |[372](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy372.%20Delete%20Node%20in%20a%20Linked%20List.cpp)|Delete Node in a Linked List|Easy|
 |[373](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy373.%20Partition%20Array%20by%20Odd%20and%20Even.cpp)|Partition Array by Odd and Even|Easy|
@@ -178,6 +180,7 @@ Naive-->Easy-->Medium-->Hard-->Super
 |[671](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy671.%20Rotate%20Words.cpp)|Rotate Words|Easy|
 |[684](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy684.%20Missing%20String.cpp)|Missing String|Easy|
 |[686](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy686.%20Remove%20Arbitrary%20Space.cpp)|Remove Arbitrary Space|Easy|
+|[693](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy693.%20Remove%20Dights.cpp)|Remove Dights|Easy|
 |[697](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy697.%20Sum%20of%20Square%20Numbers.cpp)|Sum of Square Numbers|Easy|
 |[702](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy702.%20Concatenated%20String%20with%20Uncommon%20Characters%20of%20Two%20Strings.cpp)|Concatenated String with Uncommon Characters of Two Strings|Easy|
 |[720](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy720.%20Rearrange%20a%20String%20With%20Integers.cpp)|Rearrange a String With Integers|Easy|
@@ -196,7 +199,9 @@ Naive-->Easy-->Medium-->Hard-->Super
 |[770](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy770.%20Maximum%20and%20Minimum.cpp)|Maximum and Minimum|Easy|
 |[773](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy773.%20Vlid%20Anagram.cpp)|Vlid Anagram|Easy|
 |[777](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy777.%20Valid%20Perfect%20Square.cpp)|Valid Perfect Square|Easy|
+|[784](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy784.%20The%20Longest%20Common%20Prefix%20II.cpp)|The Longest Common Prefix II|Easy|
 |[792](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy792.%20Kth%20Prime%20Number.cpp)|Kth Prime Number|Easy|
+|[797](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy797.%20Reach%20a%20Number.cpp)|Reach a Number|Easy|
 |[822](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy822.%20Reverse%20Order%20Storage.cpp)|Reverse Order Storage|Easy|
 |[828](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy828.%20Word%20Pattern.cpp)|Word Pattern|Easy|
 |[835](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy835.%20Hamming%20Distance.cpp)|Hamming Distance|Easy|
@@ -208,10 +213,12 @@ Naive-->Easy-->Medium-->Hard-->Super
 |[924](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy924.%20Shortest%20Word%20Distance.cpp)|Shortest Word Distance|Easy|
 |[936](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy936.%20Capitalizes%20The%20First%20Letter.cpp)|Capitalizes The First Letter|Easy|
 |[943](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy943.%20Range%20Sum%20Query%20-%20Immutable.cpp)|Range Sum Query - Immutable|Easy|
+|[973](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy973.%201-bit%20and%202-bit%20Characters.cpp)|1-bit and 2-bit Characters|Easy|
 |[977](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy977.%20Base%207.cpp)|Base 7|Easy|
 |[983](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy983.%20Baseball%20Game.cpp)|Baseball Game|Easy|
 |[987](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy987.%20Binary%20Number%20with%20Alternating%20Bits.cpp)|Binary Number with Alternating Bits|Easy|
 |[988](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy988.%20Arranging%20Coins.cpp)|Arranging Coins|Easy|
+|[993](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy993.%20Array%20Partition%20I.cpp)|Array Partition I|Easy|
 |[1005](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1005.%20Largest%20Triangle%20Area.cpp)|Largest Triangle Area|Easy|
 |[1028](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1028.%20Rotated%20Digits.cpp)|Rotated Digits|Easy|
 |[1038](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1038.%20Jewels%20And%20Stones.cpp)|Jewels And Stones|Easy|
@@ -219,10 +226,13 @@ Naive-->Easy-->Medium-->Hard-->Super
 |[1046](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1046.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation.cpp)|Prime Number of Set Bits in Binary Representation|Easy|
 |[1053](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1053.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.cpp)|Largest Number At Least Twice of Others|Easy|
 |[1056](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1056.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.cpp)|Find Smallest Letter Greater Than Target|Easy|
+|[1062](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1062.%20Flood%20Fill.cpp)|Flood Fill|Easy|
+|[1080](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1080.%20Max%20Area%20of%20Island.cpp)|Max Area of Island|Easy|
 |[1094](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1094.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.cpp)|Second Minimum Node In a Binary Tree|Easy|
 |[1102](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1102.%20Image%20Smoother.cpp)|Image Smoother|Easy|
 |[1104](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1104.%20Judge%20Route%20Circle.cpp)|Judge Route Circle|Easy|
 |[1112](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1112.%20Set%20Mismatch.cpp)|Set Mismatch|Easy|
+|[1141](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1141.%20The%20month's%20days.cpp)|The month's days|Easy|
 |[1144](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1144.%20Range%20Addition%20II.cpp)|Range Addition II|Easy|
 |[1153](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1153.%20string%20sorting.cpp)|string sorting|Easy|
 |[1168](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1168.%20array%20score.cpp)|array score|Easy|
@@ -234,6 +244,10 @@ Naive-->Easy-->Medium-->Hard-->Super
 |[1204](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1204.%20Keyboard%20Row.cpp)|Keyboard Row|Easy|
 |[1209](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1209.%20Construct%20the%20Rectangle.cpp)|Construct the Rectangle|Easy|
 |[1212](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1212.%20Max%20Consecutive%20Ones.cpp)|Max Consecutive Ones|Easy|
+|[1214](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1214.%20License%20Key%20Formatting.cpp)|License Key Formatting|Easy|
+|[1218](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1218.%20Number%20Complement.cpp)|Number Complement|Easy|
+|[1243](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1243.%20Number%20of%20Segments%20in%20a%20String.cpp)|Number of Segments in a String|Easy|
+|[1253](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1253.%20Convert%20a%20Number%20to%20Hexadecimal.cpp)|Convert a Number to Hexadecimal|Easy|
 |[1256](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1256.%20Nth%20Digit.cpp)|Nth Digit|Easy|
 |[1270](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1270.%20Ransom%20Note.cpp)|Ransom Note|Easy|
 |[1282](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1282.%20Reverse%20Vowels%20of%20a%20String.cpp)|Reverse Vowels of a String|Easy|
@@ -242,6 +256,7 @@ Naive-->Easy-->Medium-->Hard-->Super
 |[1294](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1294.%20Power%20of%20Three.cpp)|Power of Three|Easy|
 |[1302](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1302.%20People%20Counting.cpp)|People Counting|Easy|
 |[1314](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1314.%20Power%20of%20Two.cpp)|Power of Two|Easy|
+|[1320](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1320.%20Contains%20Duplicate.cpp)|Contains Duplicate|Easy|
 |[1324](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1324.%20Count%20Primes.cpp)|Count Primes|Easy|
 |[1332](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1332.%20Number%20of%201%20Bits.cpp)|Number of 1 Bits|Easy|
 |[1333](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1333.%20Reverse%20Bits.cpp)|Reverse Bits|Easy|
