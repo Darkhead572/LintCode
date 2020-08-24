@@ -119,6 +119,7 @@ Naive-->Easy-->Medium-->Hard-->Super
 |[265](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy265.%20Maximum%20Non-Negative%20Subarray.cpp)|Maximum Non-Negative Subarray|Easy|
 |[277](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy277.%20Word%20Spacing.cpp)|Word Spacing|Easy|
 |[278](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy278.%20Paint%20Fill.cpp)|Paint Fill|Easy|
+|[280](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy280.%20Closest%20City.cpp)|Closest City|Easy|
 |[282](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy282.%20Decrypt%20the%20String.cpp)|Decrypt the String|Easy|
 |[294](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy294.%20Linked%20List%20Simplification.cpp)|Linked List Simplification|Easy|
 |[296](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy296.%20Unique%20Array.cpp)|Unique Array|Easy|
@@ -188,6 +189,7 @@ Naive-->Easy-->Medium-->Hard-->Super
 |[737](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy737.%20Find%20Elements%20in%20Matrix.cpp)|Find Elements in Matrix|Easy|
 |[749](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy749.%20John's%20backyard%20garden.cpp)|John's backyard garden|Easy|
 |[756](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy756.%20Multiply%20Two%20Numbers.cpp)|Multiply Two Numbers|Easy|
+|[757](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy757.%20Shortest%20Unordered%20Array.cpp)|Shortest Unordered Array|Easy|
 |[759](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy759.%20Time%20Angle.cpp)|Time Angle|Easy|
 |[763](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy763.%20Hex%20Conversion.cpp)|Hex Conversion|Easy|
 |[764](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy764.%20Calculate%20Circumference%20And%20Area.cpp)|Calculate Circumference And Area|Easy|
@@ -210,6 +212,9 @@ Naive-->Easy-->Medium-->Hard-->Super
 |[845](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy845.%20Greatest%20Common%20Divisor.cpp)|Greatest Common Divisor|Easy|
 |[846](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy846.%20Multi-keyword%20Sort.cpp)|Multi-keyword Sort|Easy|
 |[856](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy856.%20Sentence%20Similarity.cpp)|Sentence Similarity|Easy|
+|[868](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy868.%20Maximum%20Average%20Subarray.cpp)|Maximum Average Subarray|Easy|
+|[872](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy872.%20Kill%20Process.cpp)|Kill Process|Easy|
+|[900](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy900.%20Closest%20Binary%20Search%20Tree%20Value.cpp)|Closest Binary Search Tree Value|Easy|
 |[914](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy914.%20Flip%20Game.cpp)|Flip Game|Easy|
 |[916](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy916.%20Palindrome%20Permutation.cpp)|Palindrome Permutation|Easy|
 |[924](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy924.%20Shortest%20Word%20Distance.cpp)|Shortest Word Distance|Easy|
@@ -223,6 +228,7 @@ Naive-->Easy-->Medium-->Hard-->Super
 |[993](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy993.%20Array%20Partition%20I.cpp)|Array Partition I|Easy|
 |[1005](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1005.%20Largest%20Triangle%20Area.cpp)|Largest Triangle Area|Easy|
 |[1011](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1011.%20Number%20of%20Lines%20To%20Write%20String.cpp)|Number of Lines To Write String|Easy|
+|[1017](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1017.%20Similar%20RGB%20Color.cpp)|Similar RGB Color|Easy|
 |[1028](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1028.%20Rotated%20Digits.cpp)|Rotated Digits|Easy|
 |[1038](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1038.%20Jewels%20And%20Stones.cpp)|Jewels And Stones|Easy|
 |[1042](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1042.%20Toeplitz%20Matrix.cpp)|Toeplitz Matrix|Easy|
@@ -236,6 +242,8 @@ Naive-->Easy-->Medium-->Hard-->Super
 |[1102](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1102.%20Image%20Smoother.cpp)|Image Smoother|Easy|
 |[1104](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1104.%20Judge%20Route%20Circle.cpp)|Judge Route Circle|Easy|
 |[1112](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1112.%20Set%20Mismatch.cpp)|Set Mismatch|Easy|
+|[1115](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1115.%20Average%20of%20Levels%20in%20Binary%20Tree.cpp)|Average of Levels in Binary Tree|Easy|
+|[1138](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1138.%20Can%20Place%20Flowers.cpp)|Can Place Flowers|Easy|
 |[1141](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1141.%20The%20month's%20days.cpp)|The month's days|Easy|
 |[1144](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1144.%20Range%20Addition%20II.cpp)|Range Addition II|Easy|
 |[1146](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1146.%20Chess%20piece%20rotation.cpp)|Chess piece rotation|Easy|
@@ -245,14 +253,20 @@ Naive-->Easy-->Medium-->Hard-->Super
 |[1172](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1172.%20Binary%20Tree%20Tilt.cpp)|Binary Tree Tilt|Easy|
 |[1173](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1173.%20Reverse%20Words%20in%20a%20String%20III.cpp)|Reverse Words in a String III|Easy|
 |[1193](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1193.%20Detect%20Capital.cpp)|Detect Capital|Easy|
+|[1199](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1199.%20Perfect%20Number.cpp)|Perfect Number|Easy|
 |[1200](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1200.%20Relative%20Ranks.cpp)|Relative Ranks|Easy|
 |[1204](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1204.%20Keyboard%20Row.cpp)|Keyboard Row|Easy|
+|[1206](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1206.%20Next%20Greater%20Element%20I.cpp)|Next Greater Element I|Easy|
 |[1209](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1209.%20Construct%20the%20Rectangle.cpp)|Construct the Rectangle|Easy|
 |[1212](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1212.%20Max%20Consecutive%20Ones.cpp)|Max Consecutive Ones|Easy|
 |[1214](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1214.%20License%20Key%20Formatting.cpp)|License Key Formatting|Easy|
 |[1218](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1218.%20Number%20Complement.cpp)|Number Complement|Easy|
+|[1219](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1219.%20Heaters.cpp)|Heaters|Easy|
+|[1236](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1236.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.cpp)|Find All Numbers Disappeared in an Array|Easy|
 |[1243](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1243.%20Number%20of%20Segments%20in%20a%20String.cpp)|Number of Segments in a String|Easy|
+|[1250](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1250.%20Third%20Maximum%20Number.cpp)|Third Maximum Number|Easy|
 |[1253](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1253.%20Convert%20a%20Number%20to%20Hexadecimal.cpp)|Convert a Number to Hexadecimal|Easy|
+|[1254](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1254.%20Sum%20of%20Left%20Leaves.cpp)|Sum of Left Leaves|Easy|
 |[1256](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1256.%20Nth%20Digit.cpp)|Nth Digit|Easy|
 |[1266](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1266.%20Find%20the%20Difference.cpp)|Find the Difference|Easy|
 |[1270](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1270.%20Ransom%20Note.cpp)|Ransom Note|Easy|
@@ -273,11 +287,17 @@ Naive-->Easy-->Medium-->Hard-->Super
 |[1350](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1350.%20Excel%20Sheet%20Column%20Title.cpp)|Excel Sheet Column Title|Easy|
 |[1354](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1354.%20Pascal's%20Triangle%20II.cpp)|Pascal's Triangle II|Easy|
 |[1355](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1355.%20Pascal's%20Triangle.cpp)|Pascal's Triangle|Easy|
+|[1358](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1358.%20Path%20Sum.cpp)|Path Sum|Easy|
 |[1385](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1385.%20Lucky%20Number%20Eight.cpp)|Lucky Number Eight|Easy|
 |[1394](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1394.%20Goat%20Latin.cpp)|Goat Latin|Easy|
+|[1425](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1425.%20Backspace%20String%20Compare.cpp)|Backspace String Compare|Easy|
+|[1451](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1451.%20Maximize%20Distance%20to%20Closest%20Person.cpp)|Maximize Distance to Closest Person|Easy|
+|[1476](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1476.%20Peak%20Index%20in%20a%20Mountain%20Array.cpp)|Peak Index in a Mountain Array|Easy|
 |[1483](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1483.%20Maximum%20Average%20Score.cpp)|Maximum Average Score|Easy|
+|[1485](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1485.%20Holy%20Grail%20spell.cpp)|Holy Grail spell|Easy|
 |[1503](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1503.%20Give%20change.cpp)|Give change|Easy|
 |[1505](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1505.%20Find%20the%20Number.cpp)|Find the Number|Easy|
+|[1509](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1509.%20Lemonade%20Change.cpp)|Lemonade Change|Easy|
 |[1510](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1510.%20Buddy%20Strings.cpp)|Buddy Strings|Easy|
 |[1519](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1519.%20Time%20magic.cpp)|Time magic|Easy|
 |[1525](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1525.%20N-ary%20Tree%20Postorder%20Traversal.cpp)|N-ary Tree Postorder Traversal|Easy|
@@ -285,14 +305,19 @@ Naive-->Easy-->Medium-->Hard-->Super
 |[1533](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1533.%20N-ary%20Tree%20Level%20Order%20Traversal.cpp)|N-ary Tree Level Order Traversal|Easy|
 |[1535](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1535.%20To%20Lower%20Case.cpp)|To Lower Case|Easy|
 |[1609](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1609.%20Middle%20of%20the%20Linked%20List.cpp)|Middle of the Linked List|Easy|
+|[1649](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1649.%20Super%20Lollipop.cpp)|Super Lollipop|Easy|
+|[1656](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1656.%20Legal%20Number%20Statistics.cpp)|Legal Number Statistics|Easy|
+|[1659](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1659.%20Legal%20Number%20Statistics%20II.cpp)|Legal Number Statistics II|Easy|
 |[1665](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1665.%20Calculate%20number.cpp)|Calculate number|Easy|
 |[1700](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1700.%20DI%20String%20Match.cpp)|DI String Match|Easy|
 |[1745](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1745.%20Monotonic%20Array.cpp)|Monotonic Array|Easy|
 |[1783](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1783.%20Binary%20Tree%20Postorder%20Traversal-nullptrptr.cpp)|Binary Tree Postorder Traversal-nullptrptr|Easy|
 |[1807](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1807.%20Fibonacci%20easy.cpp)|Fibonacci easy|Easy|
+|[1835](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1835.%20Number%20of%20Ways%20to%20Stay%20in%20the%20Same%20Place%20After%20Some%20Steps%20I.cpp)|Number of Ways to Stay in the Same Place After Some Steps I|Easy|
 |[1878](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1878.%20Rotated%20Nums.cpp)|Rotated Nums|Easy|
 |[1880](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1880.%20Largest%20Number%20X%20Which%20Occurs%20X%20Times.cpp)|Largest Number X Which Occurs X Times|Easy|
 |[1886](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1886.%20Moving%20Target.cpp)|Moving Target|Easy|
+|[1895](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1895.%20Arrange%20interview%20city.cpp)|Arrange interview city|Easy|
 |[1901](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1901.%20Squares%20of%20a%20Sorted%20Array.cpp)|Squares of a Sorted Array|Easy|
 |[1902](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1902.%20Find%20Google.cpp)|Find Google|Easy|
 |[1905](https://github.com/zerowing-ex/LintCode/blob/master/Easy/Easy1905.%20Character%20deletion.cpp)|Character deletion|Easy|
